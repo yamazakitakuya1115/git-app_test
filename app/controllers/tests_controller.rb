@@ -3,6 +3,5 @@ class TestsController < ApplicationController
   end
 
   def new
-    @tweet = "マスターブランチ上でコードを書いてしまった"
   end
 end
